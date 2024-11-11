@@ -1,19 +1,13 @@
 {
-    "NavbarLinks": {
+    
       "home": "الرئيسية",
-      "homeTitle": "الصفحة الرئيسية",
+      "Recipes":"الوصفات",
       "about": "حولنا",
-      "aboutTitle": "صفحة حولنا",
-      "profile": "الملف الشخصي",
-      "profileTitle": "عنوان الملف الشخصي"
-    },
-    "HomePage": {
-      "title": "صفحة الهبوط"
-    },
-    "AboutPage": {
-      "title": "حولنا"
-    },
-    "ProfilePage": {
-      "title": "الملف الشخصي"
-    }
+      "healthy_food":"الاكل الصحي",
+      "Sign_up":"سجل الان",
+      "Drinks":"المشروبات",
+      "Sweets":"الحلويات",
+      "Modern":"الاطباق العصرية",
+      "Traditional":"الاطباق التقليدية"
+      
   }

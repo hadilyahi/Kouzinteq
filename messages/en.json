@@ -1,20 +1,12 @@
 
 {
-    "NavbarLinks": {
-      "home": "Home",
-      "homeTitle": "Home page",
-      "about": "About",
-      "aboutTitle": "About page",
-      "profile": "Profile",
-      "profileTitle": "Profile page"
-    },
-    "HomePage": {
-      "title": "Landing page"
-    },
-    "AboutPage": {
-      "title": "About"
-    },
-    "ProfilePage": {
-      "title": "Profile"
-    }
+        "home": "Home",
+        "about": "About us",
+        "Recipes":"Recipes",
+        "healthy_food":"Healthy food",
+        "Sign_up":"Sign up",
+        "Drinks":"Drinks",
+      "Sweets":"Sweets",
+      "Modern":"Modern",
+      "Traditional":"Traditional"
   }

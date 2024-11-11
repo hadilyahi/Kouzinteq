@@ -12,7 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        arabic: ["The Year of The Camel", "sans-serif"],
+        english: ["Itim", "cursive"],
+      },
     },
   },
   plugins: [],
+  
 } satisfies Config;

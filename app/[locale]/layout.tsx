@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "../globals.css";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
+// import NavBar from "@/components/NavBar";
 
 export const metadata: Metadata = {
   title: "كوزينتك",
@@ -21,6 +22,7 @@ export default async function RootLayout({
       <body>
         <NextIntlClientProvider messages={messages}> 
         <div>
+          {/* <NavBar locale={locale}/> */}
           {children}
           </div>
         </NextIntlClientProvider>
